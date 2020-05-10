@@ -74,12 +74,12 @@ class Regist extends StatelessWidget {
                       var getpass=passwordcontroller.text;
                       if(getName=='admin'&& getpass=='1234')
                       {
-                        print("success");
+                        print("Success");
 //                        Navigator.push(context,
 //                        )
                       }
                       else{
-                        print("invalid");
+                        print("Invalid");
                         }
 
 
