@@ -46,7 +46,7 @@ class Regist extends StatelessWidget {
                     TextField(
                       controller: namecontroller,
                       decoration: InputDecoration(
-                        hintText: "Name",
+                        hintText: "user name",
                         border: OutlineInputBorder(
 
                         )
@@ -57,7 +57,7 @@ class Regist extends StatelessWidget {
                       controller: passwordcontroller,
                       obscureText: true,
                       decoration: InputDecoration(
-                          hintText: "pword",
+                          hintText: "password",
                           border: OutlineInputBorder(
 
                           )
