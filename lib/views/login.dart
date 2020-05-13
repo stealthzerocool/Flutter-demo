@@ -2,7 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutternew/views/count.dart';
 import 'package:flutternew/views/registration.dart';
+import 'package:flutternew/views/todo.dart';
 import 'package:flutternew/views/viewall.dart';
+
+
 
 class Mylogin extends StatelessWidget {
 
@@ -54,7 +57,7 @@ class Mylogin extends StatelessWidget {
 //                    print("success");
                     Navigator.push(context,
                         MaterialPageRoute(
-                            builder: (context)=>MyCounter()
+                            builder: (context)=>Todo()
                         ));
                   }
                   else{

@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutternew/views/login.dart';
+import 'package:flutternew/views/todo.dart';
 
 class Regist extends StatelessWidget {
   TextEditingController namecontroller=TextEditingController();
