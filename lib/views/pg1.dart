@@ -12,7 +12,7 @@ class Page1 extends StatelessWidget {
         children: <Widget>[
           TextField(
             decoration: InputDecoration(
-                hintText: "Enter Name",
+                hintText: "Name",
                 border: OutlineInputBorder(borderRadius: BorderRadius.circular(15.0))
             ),
           ),
@@ -21,7 +21,7 @@ class Page1 extends StatelessWidget {
           ),
           TextField(
             decoration: InputDecoration(
-                hintText: "Enter Roll No:",
+                hintText: "Roll No",
                 border: OutlineInputBorder(borderRadius: BorderRadius.circular(15.0))
             ),
           ),
