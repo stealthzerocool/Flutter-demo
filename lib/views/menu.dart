@@ -33,7 +33,7 @@ class _MyMenuState extends State<MyMenu> {
               backgroundColor: Colors.red,
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.view_list),
+              icon: Icon(Icons.filter_list),
               title: Text("list"),
               backgroundColor: Colors.red,
             ),

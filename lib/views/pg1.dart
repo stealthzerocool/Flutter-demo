@@ -33,8 +33,10 @@ class Page1 extends StatelessWidget {
               final msg= SnackBar(
                   content: Text("Submit Clicked"));
               Scaffold.of(context).showSnackBar(msg);
+
             },
             child: Container(
+
               width: double.infinity,
               height: 40.0,
               decoration: BoxDecoration(
@@ -43,7 +45,7 @@ class Page1 extends StatelessWidget {
               ),
               child: Center(
                 child: Text(
-                  "Submit",
+                  "SUBMIT",
                   style: TextStyle(fontSize: 20.0,color: Colors.white),
                 ),
               ),
