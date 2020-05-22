@@ -46,7 +46,7 @@ class _TodoState extends State<Todo> {
                     });
 
                   },
-                  child: Text("Add",style: TextStyle(color: Colors.purple,
+                  child: Text("Add Item",style: TextStyle(color: Colors.purple,
 
                     ),
 

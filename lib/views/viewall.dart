@@ -28,7 +28,7 @@ class Viewall extends StatelessWidget {
                         image: NetworkImage(data[index]["image"]),
                       ),
                     ),
-                    trailing: int.parse(data[index]["age"].toString()) > 25 ? Icon(Icons.print):Icon(Icons.clear),
+                    trailing: int.parse(data[index]["age"].toString()) > 23 ? Icon(Icons.print):Icon(Icons.clear),
 
                     title: Text(
                       "Name :" + data[index]["name"],

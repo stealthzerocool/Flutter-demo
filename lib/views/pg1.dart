@@ -45,7 +45,7 @@ class Page1 extends StatelessWidget {
               ),
               child: Center(
                 child: Text(
-                  "SUBMIT",
+                  "Submit",
                   style: TextStyle(fontSize: 20.0,color: Colors.white),
                 ),
               ),
