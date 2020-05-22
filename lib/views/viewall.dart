@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 
 class Viewall extends StatelessWidget {
   var data = [
-    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "reul", "age": 22, "admn": 232},
-    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "Rahul", "age": 23, "admn": 2332},
-    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "tom", "age": 26, "admn": 23562},
-    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "tommm", "age":32, "admn": 23212}
+    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "Reul", "age": 22, "admn": 232},
+    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "Aditya", "age": 23, "admn": 2332},
+    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "Sravan", "age": 26, "admn": 23562},
+    {"image":"https://images.unsplash.com/photo-1518806118471-f28b20a1d79d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80","name": "Goutham", "age":32, "admn": 23212}
   ];
 
   @override
